@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"52398c23f950145a","x":0,"y":-300,"width":250,"height":60,"type":"text","text":"正常测试"},
+		{"id":"5e84e86d29e34727","x":0,"y":-231,"width":250,"height":60,"type":"text","text":"print('hello,world')"},
+		{"id":"5e2c601016cc34fd","x":0,"y":-160,"width":250,"height":60,"type":"text","text":""},
+		{"id":"5a3e4cfcdb4cffcd","x":-340,"y":-231,"width":250,"height":60,"type":"text","text":"新的东西"}
+	],
+	"edges":[
+		{"id":"0300f9a6b6c343bd","fromNode":"5a3e4cfcdb4cffcd","fromSide":"right","toNode":"52398c23f950145a","toSide":"left"},
+		{"id":"c4eb7c1fbff79baa","fromNode":"5a3e4cfcdb4cffcd","fromSide":"right","toNode":"5e2c601016cc34fd","toSide":"left"},
+		{"id":"a706f764213dfa2f","fromNode":"5a3e4cfcdb4cffcd","fromSide":"right","toNode":"5e84e86d29e34727","toSide":"left"}
+	]
+}
