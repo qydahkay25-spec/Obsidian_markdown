@@ -26,5 +26,9 @@
   "treatAsAttachmentExtensions": [
     ".excalidraw.md"
   ],
+<<<<<<< HEAD
   "version": ""
+=======
+  "version": "9.18.2"
+>>>>>>> 41fde902d100bced7d56abeb47beddc4a146d368
 }
